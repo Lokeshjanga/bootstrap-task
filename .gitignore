@@ -1,0 +1,9 @@
+# IDE specific
+.idea/
+.vscode/
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
